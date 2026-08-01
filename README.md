@@ -1,2 +1,4 @@
-# rust-math-calc-62
+# Rust Math Calc 62
+
 Multiplying recursive integer values in Rust.
+
